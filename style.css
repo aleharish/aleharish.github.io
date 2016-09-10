@@ -1,0 +1,19 @@
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+.name-block {
+	margin-top: 50px;
+}
+
+.desc-block {
+	margin-top: 20px;
+}
+
+.small {
+	font-size: 10px;
+}
+
+img {
+	border: 1px solid;
+}
